@@ -20,7 +20,7 @@ If you're using Typescript in your project, `ng2-bs3-modal` requires Typescript 
 ## Install
 
 ```bash
-npm install --save ng2-bs3-modal
+npm install --save @empite/ng2-bs3-modal
 ```
 
 Then include the `ng2-bs3-modal` in your project.
