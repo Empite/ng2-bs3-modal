@@ -1,5 +1,5 @@
 {
-  "name": "ng2-bs3-modal",
+  "name": "@empite/ng2-bs3-modal",
   "version": "0.10.4",
   "description": "Angular2 Boostrap3 Modal Component",
   "main": "ng2-bs3-modal.js",
